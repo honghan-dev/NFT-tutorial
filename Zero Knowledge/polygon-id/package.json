@@ -1,0 +1,15 @@
+{
+  "name": "polygon-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0xpolygonid/js-sdk": "^1.0.0-beta.2"
+  }
+}

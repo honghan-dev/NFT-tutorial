@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mobile-padding {
+  padding: 0 1rem;
+}
