@@ -10,3 +10,6 @@
 [submodule "Foundary/test_1/lib/solmate"]
 	path = Foundary/test_1/lib/solmate
 	url = https://github.com/rari-capital/solmate
+[submodule "Foundry/security-course/lib/forge-std"]
+	path = Foundry/security-course/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
