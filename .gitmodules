@@ -28,3 +28,27 @@
 [submodule "Foundry/Foundry Introduction/fortune-fund/lib/forge-std"]
 	path = Foundry/Foundry Introduction/fortune-fund/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Foundry/Foundry Introduction/fortune-fund/lib/chainlink-brownie-contracts"]
+	path = Foundry/Foundry Introduction/fortune-fund/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Foundry/Foundry Introduction/fortune-fund/lib/solmate"]
+	path = Foundry/Foundry Introduction/fortune-fund/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "Foundry/Foundry Introduction/fortune-fund/lib/foundry-devops"]
+	path = Foundry/Foundry Introduction/fortune-fund/lib/foundry-devops
+	url = https://github.com/ChainAccelOrg/foundry-devops
+[submodule "Foundry/Foundry Introduction/NFT-Marketplace/lib/forge-std"]
+	path = Foundry/Foundry Introduction/NFT-Marketplace/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Foundry/Foundry Introduction/NFT-collection/lib/forge-std"]
+	path = Foundry/Foundry Introduction/NFT-collection/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Foundry/Foundry Introduction/NFT-collection/lib/openzeppelin-contracts"]
+	path = Foundry/Foundry Introduction/NFT-collection/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Foundry/Foundry Introduction/NFT-collection/lib/OpenPositions"]
+	path = Foundry/Foundry Introduction/NFT-collection/lib/OpenPositions
+	url = https://github.com/Cyfrin/OpenPositions
+[submodule "Foundry/Foundry Introduction/NFT-collection/lib/foundry-devops"]
+	path = Foundry/Foundry Introduction/NFT-collection/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
