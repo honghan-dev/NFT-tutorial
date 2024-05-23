@@ -45,10 +45,19 @@
 	url = https://github.com/foundry-rs/forge-std
 [submodule "Foundry/Foundry Introduction/NFT-collection/lib/openzeppelin-contracts"]
 	path = Foundry/Foundry Introduction/NFT-collection/lib/openzeppelin-contracts
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
 [submodule "Foundry/Foundry Introduction/NFT-collection/lib/OpenPositions"]
 	path = Foundry/Foundry Introduction/NFT-collection/lib/OpenPositions
 	url = https://github.com/Cyfrin/OpenPositions
 [submodule "Foundry/Foundry Introduction/NFT-collection/lib/foundry-devops"]
 	path = Foundry/Foundry Introduction/NFT-collection/lib/foundry-devops
 	url = https://github.com/Cyfrin/foundry-devops
+[submodule "Foundry/Foundry Introduction/basic-nft/lib/forge-std"]
+	path = Foundry/Foundry Introduction/basic-nft/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Foundry/Foundry Introduction/basic-nft/lib/foundry-devops"]
+	path = Foundry/Foundry Introduction/basic-nft/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "Foundry/Foundry Introduction/basic-nft/lib/openzeppelin-contracts"]
+	path = Foundry/Foundry Introduction/basic-nft/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
